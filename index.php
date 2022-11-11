@@ -80,7 +80,7 @@ do {
     $num = $num / 2;
     $i++;
 } while ($num >= 50);
-echo $i;
+echo $i, '<br>';
 
 //task 10
 echo "<br> Task 10 <br>";
